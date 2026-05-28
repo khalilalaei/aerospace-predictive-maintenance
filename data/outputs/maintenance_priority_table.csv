@@ -1,0 +1,101 @@
+unit_number,time_in_cycles,RUL,risk_label,high_risk_flag,predicted_high_risk,predicted_risk_probability,predicted_risk_label
+81,213,8,High Risk,1,1,0.994962707521093,Predicted High Risk
+34,203,7,High Risk,1,1,0.9940908031154665,Predicted High Risk
+82,162,9,High Risk,1,1,0.9936492925889151,Predicted High Risk
+35,198,11,High Risk,1,1,0.9932532491022101,Predicted High Risk
+49,303,21,High Risk,1,1,0.9914082973393782,Predicted High Risk
+76,205,10,High Risk,1,1,0.9877268294527514,Predicted High Risk
+66,147,14,High Risk,1,1,0.9807557673096148,Predicted High Risk
+68,187,8,High Risk,1,1,0.9779369352926846,Predicted High Risk
+56,136,15,High Risk,1,1,0.9695197352332091,Predicted High Risk
+42,156,10,High Risk,1,1,0.9652158906325896,Predicted High Risk
+36,126,19,High Risk,1,1,0.9538502438876231,Predicted High Risk
+100,198,20,High Risk,1,1,0.9337520005985411,Predicted High Risk
+31,196,8,High Risk,1,1,0.9270279517473319,Predicted High Risk
+20,184,16,High Risk,1,1,0.9165720732279568,Predicted High Risk
+92,150,20,High Risk,1,1,0.9062163442541395,Predicted High Risk
+40,133,28,High Risk,1,1,0.8890468226951824,Predicted High Risk
+24,186,20,High Risk,1,1,0.7723787694623332,Predicted High Risk
+52,189,29,High Risk,1,1,0.7610561113563223,Predicted High Risk
+77,162,34,Medium Risk,0,1,0.7497934006583544,Predicted High Risk
+53,164,26,High Risk,1,1,0.7025591573854426,Predicted High Risk
+91,234,38,Medium Risk,0,1,0.6856480626949971,Predicted High Risk
+61,159,21,High Risk,1,1,0.6315972848064982,Predicted High Risk
+90,146,28,High Risk,1,1,0.6057515448785028,Predicted High Risk
+94,133,55,Medium Risk,0,1,0.5515589722107545,Predicted High Risk
+64,168,28,High Risk,1,1,0.5425632166074821,Predicted High Risk
+58,176,37,Medium Risk,0,1,0.5017128790327675,Predicted High Risk
+84,172,58,Medium Risk,0,0,0.44633855613344164,Predicted Not High Risk
+93,244,85,Low Risk,0,0,0.39904752198935695,Predicted Not High Risk
+3,126,69,Medium Risk,0,0,0.3719939230787616,Predicted Not High Risk
+43,172,59,Medium Risk,0,0,0.35008884028061393,Predicted Not High Risk
+37,121,21,High Risk,1,0,0.3355599769539966,Predicted Not High Risk
+41,123,18,High Risk,1,0,0.2507313690688106,Predicted Not High Risk
+18,133,28,High Risk,1,0,0.23337033432328155,Predicted Not High Risk
+63,155,72,Medium Risk,0,0,0.2134492669660017,Predicted Not High Risk
+46,146,47,Medium Risk,0,0,0.18315939260592137,Predicted Not High Risk
+38,125,50,Medium Risk,0,0,0.15706153604029047,Predicted Not High Risk
+45,152,114,Low Risk,0,0,0.09760468321005117,Predicted Not High Risk
+11,83,97,Low Risk,0,0,0.09389980963864078,Predicted Not High Risk
+8,166,95,Low Risk,0,0,0.0844271693702478,Predicted Not High Risk
+57,160,103,Low Risk,0,0,0.07247625707182541,Predicted Not High Risk
+98,121,59,Medium Risk,0,0,0.04787881475876886,Predicted Not High Risk
+4,106,82,Low Risk,0,0,0.040455868234488435,Predicted Not High Risk
+14,46,107,Low Risk,0,0,0.028403206422126237,Predicted Not High Risk
+17,165,50,Medium Risk,0,0,0.025802331996147433,Predicted Not High Risk
+62,232,54,Medium Risk,0,0,0.022748805548957127,Predicted Not High Risk
+74,137,126,Low Risk,0,0,0.01973121673422764,Predicted Not High Risk
+89,177,136,Low Risk,0,0,0.017620845514965167,Predicted Not High Risk
+33,50,106,Low Risk,0,0,0.01568841211674753,Predicted Not High Risk
+72,131,50,Medium Risk,0,0,0.015646986403626977,Predicted Not High Risk
+80,133,90,Low Risk,0,0,0.015152081114250995,Predicted Not High Risk
+48,78,92,Low Risk,0,0,0.01477717482077473,Predicted Not High Risk
+30,143,115,Low Risk,0,0,0.014102189204842144,Predicted Not High Risk
+5,98,91,Low Risk,0,0,0.013037978351095547,Predicted Not High Risk
+32,145,48,Medium Risk,0,0,0.011002529486457973,Predicted Not High Risk
+13,195,95,Low Risk,0,0,0.00991104622258287,Predicted Not High Risk
+85,34,118,Low Risk,0,0,0.00982538861456537,Predicted Not High Risk
+70,152,94,Low Risk,0,0,0.0073701026852718956,Predicted Not High Risk
+6,105,93,Low Risk,0,0,0.0072399765217968535,Predicted Not High Risk
+97,134,82,Low Risk,0,0,0.0069156903563197345,Predicted Not High Risk
+9,55,111,Low Risk,0,0,0.006266962428827652,Predicted Not High Risk
+10,192,96,Low Risk,0,0,0.006140013393347279,Predicted Not High Risk
+19,135,87,Low Risk,0,0,0.005947212666776366,Predicted Not High Risk
+27,140,66,Medium Risk,0,0,0.00528053754739851,Predicted Not High Risk
+7,160,91,Low Risk,0,0,0.0043493056701848325,Predicted Not High Risk
+21,148,57,Medium Risk,0,0,0.0043182796536777035,Predicted Not High Risk
+2,49,98,Low Risk,0,0,0.004235505540208937,Predicted Not High Risk
+12,217,124,Low Risk,0,0,0.004162778888880612,Predicted Not High Risk
+69,54,121,Low Risk,0,0,0.004156457459418465,Predicted Not High Risk
+29,171,90,Low Risk,0,0,0.0036098595905396996,Predicted Not High Risk
+28,158,97,Low Risk,0,0,0.0035653723437600432,Predicted Not High Risk
+88,68,115,Low Risk,0,0,0.0034228245857662555,Predicted Not High Risk
+60,147,100,Low Risk,0,0,0.003075358536160372,Predicted Not High Risk
+79,101,63,Medium Risk,0,0,0.002979074544415805,Predicted Not High Risk
+44,54,109,Low Risk,0,0,0.0029084336218750755,Predicted Not High Risk
+47,73,135,Low Risk,0,0,0.0026168312186912114,Predicted Not High Risk
+50,74,79,Low Risk,0,0,0.001794384821717681,Predicted Not High Risk
+51,144,114,Low Risk,0,0,0.0017315629940886173,Predicted Not High Risk
+23,130,113,Low Risk,0,0,0.0011761969452160645,Predicted Not High Risk
+86,110,89,Low Risk,0,0,0.001140096302801,Predicted Not High Risk
+83,73,137,Low Risk,0,0,0.0009192307366976675,Predicted Not High Risk
+25,48,145,Low Risk,0,0,0.0008691720188642176,Predicted Not High Risk
+67,71,77,Low Risk,0,0,0.0008082088872745868,Predicted Not High Risk
+75,88,113,Low Risk,0,0,0.0007568542665865751,Predicted Not High Risk
+16,113,84,Low Risk,0,0,0.0007407302805315549,Predicted Not High Risk
+54,121,97,Low Risk,0,0,0.0006563977091157745,Predicted Not High Risk
+87,56,116,Low Risk,0,0,0.0006483351667152799,Predicted Not High Risk
+78,72,107,Low Risk,0,0,0.0006127974013273729,Predicted Not High Risk
+22,39,111,Low Risk,0,0,0.0005789146043576398,Predicted Not High Risk
+71,68,118,Low Risk,0,0,0.0005605411516010618,Predicted Not High Risk
+95,89,128,Low Risk,0,0,0.0005160976495749658,Predicted Not High Risk
+1,31,112,Low Risk,0,0,0.0005004380668053483,Predicted Not High Risk
+26,76,119,Low Risk,0,0,0.0005004380668053483,Predicted Not High Risk
+39,37,142,Low Risk,0,0,0.0005004380668053483,Predicted Not High Risk
+96,97,137,Low Risk,0,0,0.0005004380668053483,Predicted Not High Risk
+99,97,117,Low Risk,0,0,0.0004982293000973425,Predicted Not High Risk
+73,112,131,Low Risk,0,0,0.0004982293000973425,Predicted Not High Risk
+15,76,83,Low Risk,0,0,0.0004974846939297932,Predicted Not High Risk
+55,113,137,Low Risk,0,0,0.0004742153968454698,Predicted Not High Risk
+65,71,128,Low Risk,0,0,0.0004667586742072807,Predicted Not High Risk
+59,94,114,Low Risk,0,0,0.0004640603350589483,Predicted Not High Risk

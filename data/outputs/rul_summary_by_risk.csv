@@ -1,0 +1,4 @@
+risk_label,count,mean,min,max
+Low Risk,13031,148.81313790192618,76,361
+Medium Risk,4500,53.0,31,75
+High Risk,3100,15.0,0,30
